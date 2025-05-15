@@ -1,0 +1,63 @@
+[submodule "api-service/address-api"]
+	path = api-service/address-api
+	url = https://github.com/Yahbini/address-api.git
+[submodule "api-service/billing-api"]
+	path = api-service/billing-api
+	url = https://github.com/Yahbini/billing-api.git
+[submodule "api-service/contracts-api"]
+	path = api-service/contracts-api
+	url = https://github.com/Yahbini/contracts-api.git
+[submodule "api-service/feedback-api"]
+	path = api-service/feedback-api
+	url = https://github.com/Yahbini/feedback-api.git
+[submodule "api-service/identity-api"]
+	path = api-service/identity-api
+	url = https://github.com/Yahbini/identity-api.git
+[submodule "api-service/inventory-api"]
+	path = api-service/inventory-api
+	url = https://github.com/Yahbini/inventory-api.git
+[submodule "api-service/notification-api"]
+	path = api-service/notification-api
+	url = https://github.com/Yahbini/notification-api.git
+[submodule "api-service/operating-costs-api"]
+	path = api-service/operating-costs-api
+	url = https://github.com/Yahbini/operating-costs-api.git
+[submodule "api-service/operations-api"]
+	path = api-service/operations-api
+	url = https://github.com/Yahbini/operations-api.git
+[submodule "api-service/orders-api"]
+	path = api-service/orders-api
+	url = https://github.com/Yahbini/orders-api.git
+[submodule "api-service/partner-api"]
+	path = api-service/partner-api
+	url = https://github.com/Yahbini/partner-api.git
+[submodule "api-service/product-api"]
+	path = api-service/product-api
+	url = https://github.com/Yahbini/product-api.git
+[submodule "api-service/profit-api"]
+	path = api-service/profit-api
+	url = https://github.com/Yahbini/profit-api.git
+[submodule "api-service/rack-api"]
+	path = api-service/rack-api
+	url = https://github.com/Yahbini/rack-api.git
+[submodule "api-service/return-order-api"]
+	path = api-service/return-order-api
+	url = https://github.com/Yahbini/return-order-api.git
+[submodule "api-service/shared-api"]
+	path = api-service/shared-api
+	url = https://github.com/Yahbini/shared-api.git
+[submodule "api-service/transportation-api"]
+	path = api-service/transportation-api
+	url = https://github.com/Yahbini/transportation-api.git
+[submodule "api-service/user-api"]
+	path = api-service/user-api
+	url = https://github.com/Yahbini/user-api.git
+[submodule "api-service/warehouse-api"]
+	path = api-service/warehouse-api
+	url = https://github.com/Yahbini/warehouse-api.git
+[submodule "api-service/zone-api"]
+	path = api-service/zone-api
+	url = https://github.com/Yahbini/zone-api.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Yahbini/frontend.git
