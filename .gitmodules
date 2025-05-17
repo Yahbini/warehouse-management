@@ -61,3 +61,9 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/Yahbini/frontend.git
+[submodule "api-service/api-gateway"]
+	path = api-service/api-gateway
+	url = https://github.com/Yahbini/api-gateway.git
+[submodule "api-service/kafka-api"]
+	path = api-service/kafka-api
+	url = https://github.com/Yahbini/kafka-api.git
